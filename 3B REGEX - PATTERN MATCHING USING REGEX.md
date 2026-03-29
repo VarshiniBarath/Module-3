@@ -20,10 +20,21 @@ To write a Python program that matches a string containing an `'a'` followed by 
 
 ---
 
-### PROGRAM
-
+# PROGRAM
 ```
+# REGNO:-212222090028
+# Name: Varshini R
+import re
+str=input()
+x=re.search("bb",str)
+if x:
+    print("Found a match!")
+else:
+    print("Not matched!")
 ```
-### OUTPUT
+# OUTPUT
+<img width="761" height="205" alt="image" src="https://github.com/user-attachments/assets/afb91b9d-667d-4f93-aaa6-2a4ee50d21c9" />
 
-### RESULT
+
+# RESULT
+Thus a Python program that matches a string containing an 'a' followed by two to three 'b' characters using regular expressions has been implemented and exec
