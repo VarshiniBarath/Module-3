@@ -20,11 +20,20 @@ To write a Python function to accept a string, identify a word to be replaced, a
 
 ---
 
-### PROGRAM
-
+# PROGRAM
 ```
+# REGNO:-212222090028
+#Name: Varshini R
+def replacestr(m, n):
+    r=input()
+    print("The old string is",m)
+    
+    print("the new string is",m.replace(n,r))
 ```
+# OUTPUT
+<img width="797" height="329" alt="image" src="https://github.com/user-attachments/assets/ac1ca41f-b2b1-4d0d-9807-c2fd116e0bbc" />
 
-### OUTPUT
 
-### RESULT
+# RESULT
+Thus a Python function to accept a string, identify a word to be replaced, and replace it with a new word provided by the user has been implemented and executed.
+
